@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Saira&display=swap');
+
+
+.author_img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px 20px 0px;
+}
+
+.author_info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card_body_section {
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Saira', sans-serif;
+}
+
+.reading_info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card {
+    border: none;
+}
+
+.card_img {
+    border-radius: 4px;
+}
+
+.author_name_date {
+    padding-left: 20px;
+}

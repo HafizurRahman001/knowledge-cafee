@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "blogName": "How to get your first job as a self-thought programmer",
+        "img": "https://bityl.co/M1kO",
+        "authorName": "Anju Banju",
+        "authorImg": "https://bityl.co/M1kx",
+        "hashTag": [
+            "job",
+            "career",
+            "firstJob"
+        ],
+        "duration": 5
+    },
+    {
+        "id": 2,
+        "blogName": "Get job for programming as skilled as best",
+        "img": "https://bityl.co/M1kR",
+        "authorName": "Anju Banju",
+        "authorImg": "https://bityl.co/M1l1",
+        "hashTag": [
+            "programming",
+            "skilled",
+            "bestProgramming"
+        ],
+        "duration": 10
+    },
+    {
+        "id": 3,
+        "blogName": "Best interview questions for web development career",
+        "img": "https://bityl.co/M1ki",
+        "authorName": "Anju Banju",
+        "authorImg": "https://bityl.co/M1l3",
+        "hashTag": [
+            "hack",
+            "interview",
+            "questionSolve"
+        ],
+        "duration": 11
+    },
+    {
+        "id": 4,
+        "blogName": "Crack the computer science in a twinkle of eyes",
+        "img": "https://bityl.co/M1kk",
+        "authorName": "Anju Banju",
+        "authorImg": "https://bityl.co/M1l4",
+        "hashTag": [
+            "computer",
+            "science",
+            "knowledge"
+        ],
+        "duration": 1
+    },
+    {
+        "id": 5,
+        "blogName": "Make a chance to get the web course as a fresher",
+        "img": "https://bityl.co/M1ko",
+        "authorName": "Anju Banju",
+        "authorImg": "https://bityl.co/M1l7",
+        "hashTag": [
+            "webDevelopment",
+            "fresher",
+            "computer"
+        ],
+        "duration": 1
+    }
+]
